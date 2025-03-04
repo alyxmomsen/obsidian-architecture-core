@@ -4,32 +4,35 @@
 // what do you need to add in this document
 // что нужно добавить к документу
 ## subject
-### description
-### similar topics or docs
+## description
+## similar topics or docs
 // цитаты по теме ; беседы по теме с чатом GPT и т.д.
-### questions
+## questions
 // вопросы для развития (раскрытия) темы
-### reasons 
+## reasons 
 // что послужило причиной для создания этого документа
 // для решения каких вопросов можно было бы прибегнуть к этому документу
 
-### issues // deprecated 
-### areas to apply
+## issues // deprecated 
+## areas to apply
 // где я мог бы это применить
 - [ ] 
-## navigation 
+## router 
 ### doc
 {{title}}
 - [[{{title}}#body]]
 - [[{{title}}#footer]]
 # footer
-## navigation / routing
+## router
 ### doc 
 - [[{{title}}#body]]
 ### internal
 #### other
 [[index.obsidian]] | [[index v2.0]] 
 #### cloud of hash tags
+##### common
+##### specify
+
 ### external
 ## meta
 ### importance / rating
