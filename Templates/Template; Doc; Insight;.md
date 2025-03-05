@@ -7,7 +7,8 @@
 #insight 
 #insight/{{date:y}}/{{date:M}}/{{date:D}} #insight/{{date:y}}/{{date:M}} #insight/{{date:y}}
 #date/{{date:y}}/{{date:M}}/{{date:D}} #date/{{date:y}}/{{date:M}} #date/{{date:y}}
-## similar topic
+## similar topic/processes
+## related topics/processes
 ## doc nav
 [[{{title}}#meta]]
 # meta
