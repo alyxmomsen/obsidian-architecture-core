@@ -38,7 +38,7 @@
 // насколько этот документ важен лично для меня и почему
 // importance value
 #important/1 // default
-### versions
+### template versions
 1. 1.1.0 2025.01.30 #date/2025/1/30
 2. 1.2.0 2025.02.03 #date/2025/2/3 
 3. 1.2.1 #date/2025/2/16
