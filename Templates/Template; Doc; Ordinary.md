@@ -3,6 +3,7 @@
 ## description
 ## related topics
 ## related processes
+//  процессы имеющие наиболее прямое отношение к текущему документу
 ## similar topics or docs
 // цитаты по теме ; беседы по теме с чатом GPT и т.д.
 ## questions
