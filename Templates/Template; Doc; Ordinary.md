@@ -1,10 +1,10 @@
 
 # body
-## notes (примечания)
-// what do you need to add in this document
-// что нужно добавить к документу
+
 ## subject
 ## description
+## related topics
+## related processes
 ## similar topics or docs
 // цитаты по теме ; беседы по теме с чатом GPT и т.д.
 ## questions
@@ -12,8 +12,9 @@
 ## reasons 
 // что послужило причиной для создания этого документа
 // для решения каких вопросов можно было бы прибегнуть к этому документу
-
-## issues // deprecated 
+## notes (примечания)
+// what do you need to add in this document
+// что нужно добавить к документу
 ## areas to apply
 // где я мог бы это применить
 - [ ] 
@@ -24,15 +25,14 @@
 - [[{{title}}#footer]]
 # footer
 ## router
-### doc 
+### this doc 
 - [[{{title}}#body]]
-### internal
+### this vault
 #### other
 [[index.obsidian]] | [[index v2.0]] 
 #### cloud of hash tags
 ##### common
-##### specify
-
+##### specific
 ### external
 ## meta
 ### importance / rating
@@ -44,6 +44,7 @@
 2. 1.2.0 2025.02.03 #date/2025/2/3 
 3. 1.2.1 #date/2025/2/16
 4. 1.2.2 #date/2025/3/3
+5. 1.2.3  #date/2025/3/4 
 ### created
  {{date:YYYY/M/D/HHmmSS}}
 ### other
