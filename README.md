@@ -15,10 +15,12 @@
 
 #process 
 
-#process/{{date:YYYY/M/D}} #process/{{date:y}} #process/{{date:y/M}}
-#process/M{{date:M}}D{{date:D}} : month/day
+```
+#process/{{date:YYYY/M/D}} #process/{{date:y}} #process/{{date:y/M}} #process/M{{date:M}}D{{date:D}} : month/day
+```
 
-#### specyfies
+
+#### specific
 
 #process/status/terminated 
 ### research
