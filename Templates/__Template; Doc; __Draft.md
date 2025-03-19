@@ -11,9 +11,9 @@
 ## navigation 
 ### doc
 Template ; Doc; Draft
-- [[Template; Doc; Draft#header]]
-- [[Template; Doc; Draft#body]]
-- [[Template; Doc; Draft#footer]]
+- [[__Template; Doc; __Draft#header]]
+- [[__Template; Doc; __Draft#body]]
+- [[__Template; Doc; __Draft#footer]]
 
 # footer
 
@@ -21,8 +21,8 @@ Template ; Doc; Draft
 
 ### doc 
 
-- [[Template; Doc; Draft#body]]
-- [[Template; Doc; Draft#header]]
+- [[__Template; Doc; __Draft#body]]
+- [[__Template; Doc; __Draft#header]]
 ### internal
 #### other
 [[index.obsidian]] | [[index v2.0]] 
@@ -42,9 +42,9 @@ template setup by [this](https://help.obsidian.md/web-clipper/variables)
 ## navigation
 
 ### doc 
-- [[Template; Doc; Draft#header]]
-- [[Template; Doc; Draft#body]]
-- [[Template; Doc; Draft#footer]]
+- [[__Template; Doc; __Draft#header]]
+- [[__Template; Doc; __Draft#body]]
+- [[__Template; Doc; __Draft#footer]]
 
 
 
