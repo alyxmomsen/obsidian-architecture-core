@@ -1,0 +1,1 @@
+#quote #quote/{{date:YYYY/M/D}}
