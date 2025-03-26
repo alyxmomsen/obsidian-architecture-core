@@ -7,20 +7,8 @@
 #### questions
 // вопросы для развития (раскрытия) данной темы 
 #### reasons 
-## navigation 
-### doc
-{{title}}
-- [[{{title}}#body]]
-- [[{{title}}#footer]]
 # footer
-
-## navigation / routing
-[[Diary]]
-### doc 
-- [[{{title}}#body]]
-### internal
-#### other
-#### cloud of hash tags
+### hashtags
 
 #diary #diary/{{date:YYYY/M/D}} #diary/{{date:y}} #diary/{{date:y/M}}
 
@@ -30,14 +18,12 @@
 #date/M{{date:M}}/D{{date:D}}
 ### external
 ## meta
-### importance / rating
-// насколько этот документ важен лично для меня и почему
-// importance value
-#important/1 // default
+### importance of the doc
+#important/0 // default
 ### updated
 1. 1.1.0 // depricated
-2. #date/2025/1/30
-3. #date/2025/2/17
+2. 2025/1/30
+3. 2025/2/17
 ### created
  {{date:YYYY/M/D/HHmmSS}}
 ### other
