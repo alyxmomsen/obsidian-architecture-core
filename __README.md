@@ -1,8 +1,15 @@
+# insights
+1. . [[__insight;  obsidian workflow ;2025-03-21__10-34-50#экономия места с помощью фрагментации документа | экономия места с помощью фрагментации документа]]
+2. .  [[_insight; obsidian; my architecture; meta; 2025-03-23__06-56-22#subject]]
+3. . [[2025-03-31__12-35-17]]
+4. . 
+5. . 
+# questions
+
 # nav
 [[Readme  file item list; 2025-03-21__10-25-55]]
 # tips
-1. [[__insight;  obsidian workflow ;2025-03-21__10-34-50#экономия места с помощью фрагментации документа | экономия места с помощью фрагментации документа]]
-2. [[_insight; obsidian; my architecture; meta; 2025-03-23__06-56-22#subject]]
+
 # fundamentals
 ##  base subj, meta
 ## "subject", "subj"

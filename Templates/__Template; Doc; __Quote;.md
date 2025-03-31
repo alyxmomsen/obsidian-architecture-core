@@ -13,28 +13,12 @@
 ## areas to apply
 // где я мог бы это применить
 - [ ] 
-## navigation 
-
-### doc
-{{title}}
-- [[{{title}}#body]]
-- [[{{title}}#footer]]
 # footer
-## navigation / routing
-### doc 
-- [[{{title}}#body]]
 ### internal
-#### other
-[[index.obsidian]] | [[index v2.0]] 
 #### cloud of hash tags
-
 #quote  #quote/{{date:y}} #quote/{{date:y/M}} #quote/{{date:y/M/D}} 
 
----
-
 #date/{{date:YYYY/M/D}} #date/{{date:YYYY/M}} #date/{{date:YYYY}} #date/M{{date:M}}D{{date:D}} : month/day
-
----
 ### external
 ## meta
 ### importance / rating
@@ -42,8 +26,8 @@
 // importance value
 #important/1 // default
 ### versions
-1. 1.1.0 2025.01.30 #date/2025/1/30
-2. 1.2.0 2025.02.03 #date/2025/2/3 
+1. 1.1.0 2025.01.30 
+2. 1.2.0 2025.02.03 
 3. #date/2025/2/3 добавил модуль [[__Template; Doc; __Quote;#origin|origin]]
 ### created
  2025/2/6/100661
