@@ -1,7 +1,10 @@
 
 
 # insight 20250404-235855
-Документ типа Todo [[__README#todo#subj]] могут быть стартовой точкой для создания документов типа Process
+## subj
+Документы типа Todo могут быть стартовой точкой для создания документов типа Process
+## related 
+[[__README#todo 20250404 evening#subj]]
 ## hashtags
 #insight #inline
 ## note
