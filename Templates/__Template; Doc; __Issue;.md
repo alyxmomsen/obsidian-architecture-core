@@ -39,8 +39,6 @@
 ## meta data
 ### document type
 ### template versions
-1.0.0 ...
-1.0.1 #date/2025/1/16
 1.1.0 #date/2025/1/31 
 
 ### doc 
