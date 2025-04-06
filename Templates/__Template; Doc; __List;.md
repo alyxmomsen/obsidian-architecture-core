@@ -1,7 +1,9 @@
+# subject
+1. . 
+2. . 
+3. . 
 # meta
-здесь я планировал объеденять ссылки на несколько документов, например
-1. . [[__Template; Doc; __List;]]
-2. . [[__Template; Doc; __List;]]
-3. . [[__Template; Doc; __List;]]
-4. . [[__Template; Doc; __List;]]
-5. . [[__Template; Doc; __List;]]
+# hashtags
+## common
+#list{{date:y}}/{{date:M}}/{{date:D}} #list{{date:y}}/{{date:M}} #list{{date:y}}  
+#date{{date:y}}/{{date:M}}/{{date:D}}  #date{{date:y}}/{{date:M}}  #date{{date:y}}
