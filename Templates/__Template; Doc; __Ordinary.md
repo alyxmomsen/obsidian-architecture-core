@@ -17,7 +17,10 @@
 ## reasons for the doc created
 ## notes (примечания)
 // примечания
-## areas to apply
+## collection / where to apply
+### subject
+### 
+### description
 // где применить
 # footer
 ## router
