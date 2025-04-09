@@ -1,26 +1,25 @@
-# subj
+# doc : nav
+## title 
+navigation
+## subj
+[[Readme  file item list; 2025-03-21__10-25-55]]
+# doc : logs
 ## descrition
 логи в которых заносятся рабочие моменты, - инсайты, пометки, записи для 
 ## subject
 [[__collection; my obsidian core;  development; log; 2025-04-08__07-54-39]]
-# list
+# list : docs
 
 1. . [[__insight;  obsidian workflow ;2025-03-21__10-34-50#экономия места с помощью фрагментации документа | экономия места с помощью фрагментации документа]]
 2. .  [[_insight; obsidian; my architecture; meta; 2025-03-23__06-56-22#subject]]
 3. . [[2025-03-31__12-35-17]]
 4. . [[__insight; 2025-04-01__01-04-02]]
 5. . [[__insight; note meta 2024-09-04__12-01-11]]
-# questions
-# nav
-[[Readme  file item list; 2025-03-21__10-25-55]]
-# tips
 
-# fundamentals
-## subject
-### subj
+# list : fundamentals
+## subject : text
 элементы subject и subj в  документе
-### description
-## subject
+## subject : package
 ### title
 централизованное  описание хеш-тегов
 или децентрализованое, но обязательно должна быть связь, причем связь должна быть очевидная. 
@@ -30,10 +29,9 @@
 в данном случае \(#meta/description\) означает то что данным хеш-тегом помечено то принцип чего нуждается в описании :
 
 например: я ввожу хеш-тег, например #example , который ранее не существовал и для экономии времени я тут же в этом тексте даю хеш-тегу описание  \(#meta/description Example \- это хеш-тег, который предназначен для пометки  текста который содержит пример\)
-### description
-### insight
+### tags :  specific
 #insight #insight/2025
-## importance of a numerated list
+## subject : importance of a numerated list
 1. если список длинный (не укладывается в высоту экрана), нумерация дает  нам возможность определить далеко ли мы от концов списка
 2. легче различать елементы списка
 ## \_\_Question и \_\_Topic

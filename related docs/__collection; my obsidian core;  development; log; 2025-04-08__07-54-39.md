@@ -1,15 +1,19 @@
-# subject : what have we have at now
-
+# subject : list 
+## description
 на данный момент мы имеем типы данных такие как:
 
-1. #list
-2. #collection 
-3. #subject
-4. #article
-5. #meta 
-6. ...
+## subject
 
-# subject : collections vs list
+1.  : #list : перечисление (чаще всего однотипных элементов. не запрещается разнотипье), #collection (коллекция разнотипных документов. но никто не запрещается быть однотипными)
+2.  #package : указывает на то что элемент (или документ, или заголовок) является коллекцией , как #collection  , но данный сабж  является единым  целым
+3. : #subject
+4. : #article
+5. : #meta 
+6. :
+
+# subject : package 
+## description
+collections vs list
 ## subj
 нужно ли что то исключить #collection или #list
 
