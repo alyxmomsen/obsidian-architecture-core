@@ -4,22 +4,47 @@ navigation
 ## subj
 [[Readme  file item list; 2025-03-21__10-25-55]]
 # doc : logs
-## descrition
-логи в которых заносятся рабочие моменты, - инсайты, пометки, записи для 
+## description
+логи в которых заносятся рабочие моменты, - инсайты, пометки, todo (?) , записи для 
 ## subject
 [[__collection; my obsidian core;  development; log; 2025-04-08__07-54-39]]
 # list : docs
-
 1. . [[__insight;  obsidian workflow ;2025-03-21__10-34-50#экономия места с помощью фрагментации документа | экономия места с помощью фрагментации документа]]
-2. .  [[_insight; obsidian; my architecture; meta; 2025-03-23__06-56-22#subject]]
+2. .  [[_insight; obsidian; my  own architecture and  my  own protocol; meta; 2025-03-23__06-56-22#subject]]
 3. . [[2025-03-31__12-35-17]]
 4. . [[__insight; 2025-04-01__01-04-02]]
 5. . [[__insight; note meta 2024-09-04__12-01-11]]
 
 # list : fundamentals
+##  subject  : collection
+### text  : description : components
+типы модулей  документа
+### subj
+1. doc
+2. description
+3. meta
+4. subject / subj \(на тот случай, если они часто повторяются, друг под другом\)
+5. list
+6. package / pkg
+7. part
+8. insight
+9. title
+10. . 
+##  subject  : collection
+### meta
+#important/very
+#date/2025/4/10
+### text  : description
+хэш-теги  в архитектуре этого 
+### subj
+1. #important 
+2. #insigth
+3. #diary
+4. #topic 
+5. #question
 ## subject : text
 элементы subject и subj в  документе
-## subject : package
+## subject : pkg
 ### title
 централизованное  описание хеш-тегов
 или децентрализованое, но обязательно должна быть связь, причем связь должна быть очевидная. 
@@ -80,7 +105,7 @@ if module name is Description then Subject is Description too  ,
 я себя вижу больше как систему ,конечно, и при этом я понимаю что фокусировка внимания может быть на чем-то одном. Но, нужно понимать что помимо сознательного внимания есть Бессознательное и оно в фоновом режиме обрабатывает множество задач одновременно, хотя это лишь мои догадки и предположения. Кстати, я думаю что инсайты потому и случаются что бессознательное что то додумывает в фоновом режиме, а затем когда я фокусируюсь на этой теме снова, то получаю Инсайт.
 #### благоданости своему интеллекту
 Спасибо тебе большое, моё Бессознательное, за то что ты такое какое есть, хотя иногда хотелось бы что бы все было еще производительнее.
-# getting started
+# pkg : getting started
 
 ## важность темплейтов
 1. все документы должны быть созданы посредством темплейтов
@@ -143,7 +168,7 @@ if module name is Description then Subject is Description too  ,
 ####  synopsis
 это можно  сравнить с верстаком, или рабочим столом  где происходит некоторый рабочий процесс нацеленный на конкретный результат
 #### details
-утилитарный документ для контроля над процессами
+важнейший документ для контроля над процессами
 он является виртуальным рабочим столом, и тем  чем  ты  занимаешься в  "текущий  момент"  и  "вообще"
 1. ==Process must have headers== like those  ==Issues== , ==questions== 
 2. process is like a desktop where you are working with somethings
