@@ -1,7 +1,11 @@
-# doc : nav
+# collection : nav
 ## title 
 navigation
-## subj
+## subj : shell code
+```shell
+cd C:\mydata\obsidian_vaults\vault-q\core ;
+```
+## subj : doc : collection
 [[Readme  file item list; 2025-03-21__10-25-55]]
 # doc : logs
 ## description
@@ -15,10 +19,13 @@ navigation
 4. . [[__insight; 2025-04-01__01-04-02]]
 5. . [[__insight; note meta 2024-09-04__12-01-11]]
 
-# list : fundamentals
-##  subject  : collection
-### text  : description : components
-типы модулей  документа
+# collection : fundamentals
+## subject : insight : about my own headers
+### subject
+#insight/2025/4/24 : каждый заголовок должен содержать title. Например header : title. Это уже упомяналось ранее. Это нужно для того что бы при навигации можно было ориентироваться с помощью правого сайд-бара  | #date/2025/4/24
+## subject : my own headers
+## subject : how  to wright a headers
+##  subject  : collection : типы модулей  документа
 ### subj
 1. doc
 2. description
@@ -30,18 +37,37 @@ navigation
 8. insight
 9. title
 10. . 
-##  subject  : collection
+##  subject  : collection : хэш-теги,  в архитектуре этого протокола
 ### meta
 #important/very
 #date/2025/4/10
-### text  : description
-хэш-теги  в архитектуре этого 
-### subj
-1. #important 
-2. #insigth
-3. #diary
-4. #topic 
-5. #question
+### description
+#### collection : some principles for hash-tagging 
+### subj : tag Important
+#important/very 
+### subj : tag the Insight
+#insight #insight/2025/4/24
+### subj : tag the Diary
+#diary
+### subj : tag the Topic
+#topic 
+### subj : tag the Question
+#question
+### subj : tag the Thread
+#### context
+#branch
+#### subject: examples
+#note/2025/4/27 : `#thread/id/id20250427am063238086/head` ,  `#thread/id/id20250427am063238086/1` , `#thread/id/id20250427am063238086/1/1` , `#thread/id/id20250427am063238086/2` | #id/20250427am063917289
+#### description
+#note : #thread это что-то самостоятельное,  независимое, особенно в сравнении  #branch | ..
+
+#note/2025/4/27 : каждый Thread должен помечаться хеш-тегом `#thread/id/12341212aa121212123` |  #id/20250427am063917289
+
+
+
+### subj : tag the Branch
+#### description
+Branch is that. Бранч это что-то что что происходит из чего-то
 ## subject : text
 элементы subject и subj в  документе
 ## subject : pkg

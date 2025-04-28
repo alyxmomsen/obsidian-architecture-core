@@ -1,0 +1,1 @@
+#quote/{{date:y}}/{{date:M}}/{{date:D}} #quote/{{date:y}}/{{date:M}} #quote/{{date:y}} #quote

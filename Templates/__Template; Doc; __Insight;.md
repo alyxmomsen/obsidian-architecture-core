@@ -1,12 +1,10 @@
 # description
-%% 
-description about the topic  
-%%
 # subject
- %% 
- area  for  a Topic Thread placement 
- %%
-# tags
+# context
+%%
+инфо для лучшего понимания темы
+%%
+ # tags
 ## specific
 ## common
 #insight 
