@@ -1,0 +1,1 @@
+#question : subject | #question{{date:y}}/{{date:M}}/{{date:D}} #question{{date:y}}/{{date:M}} #question{{date:y}} #thread/head #thread/id/{{date:y}}/{{date:M}}/{{date:D}}/{{date:a}}/{{date:h}}/{{date:m}}/{{date:s}}/{{date:SSS}}/head

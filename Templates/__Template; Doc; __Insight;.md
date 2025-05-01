@@ -1,12 +1,12 @@
-# description
-# subject
-# context
+# __subject : Title
+#insight/{{date:y}}/{{date:M}}/{{date:D}} : subject | #date/{{date:y}}/{{date:M}}/{{date:D}}
+# __description
+# __context
 %%
 инфо для лучшего понимания темы
 %%
- # tags
-## specific
-## common
-#insight 
-#insight/{{date:y}}/{{date:M}}/{{date:D}} #insight/{{date:y}}/{{date:M}} #insight/{{date:y}}
+ # __tags
+## __specific
+#insight #insight/{{date:y}}/{{date:M}}/{{date:D}} #insight/{{date:y}}/{{date:M}} #insight/{{date:y}}
+## __common
 #date/{{date:y}}/{{date:M}}/{{date:D}} #date/{{date:y}}/{{date:M}} #date/{{date:y}}
