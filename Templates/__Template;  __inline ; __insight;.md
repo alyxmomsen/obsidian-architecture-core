@@ -1,0 +1,1 @@
+#insight/{{date:y}}/{{date:M}}/{{date:D}} #id/{{date:y}}{{date:MM}}{{date:DD}}{{date:a}}{{date:hh}}{{date:mm}}{{date:ss}}{{date:SSS}} : subj | #date/{{date:y}}/{{date:M}}/{{date:D}}

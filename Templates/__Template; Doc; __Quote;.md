@@ -1,12 +1,15 @@
-# description
-## synopsis 
+# \_\_description
+## \_\_synopsis 
 %% short description %%
-## details
+## \_\_details
 %% detail description %%
-# subject
+# \_\_context
+# \_\_subject
 %% the quote %%
-# meta 
-## tags 
+# \_\_meta 
+## \_\_tags 
+### \_\_specific
+### \_\_common
 #quote  #quote/{{date:y}} #quote/{{date:y/M}} #quote/{{date:y/M/D}} 
 
 #date/{{date:y/M/D}} #date/{{date:y/M}} #date/{{date:y}}

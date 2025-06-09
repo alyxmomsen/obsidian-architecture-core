@@ -1,0 +1,1 @@
+#date/{{date:y}}/{{date:M}}/{{date:D}} #collection/{{date:y}}/{{date:M}}/{{date:D}} 
