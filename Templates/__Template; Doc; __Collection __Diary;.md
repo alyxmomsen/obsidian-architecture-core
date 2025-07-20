@@ -1,6 +1,7 @@
 %% 
 `__diary; `
 \_\_
+{{date:/y/M/D}}
 %%
 # \_\_meta: main 
 ## \_\_tags

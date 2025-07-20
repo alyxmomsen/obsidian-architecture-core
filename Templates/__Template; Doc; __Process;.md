@@ -1,16 +1,6 @@
-# description 
-%% 
-Description of the Process subject
-%%
-## synopsis
-%% 
-коротко
-%%
-## detail
-%%
-подробно
-%%
-## context
+# @description 
+
+# @context
 %%
 здесь как правило описываются события предшевствующие возникновению субъекта процесса
 %%

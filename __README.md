@@ -1,28 +1,35 @@
-# collection : nav
-## title 
-navigation
-## subj : shell code
+
+
+# @document
+## @block.logs
+#insight : поиск по документу не позволяет использовать регулярные выражения ,но если в каждом документе использовать хеш-тег с уникальным идентификатором, то поиск по документу можно выполнять из инструмента глобального поиска. 
+
+По-правде говоря, я сначала думал что это имеет смысл, но теперь я так не думаю ((
+## @subject
+#id20250719pm124313606 [^2]
+# @subject
+
 ```shell
 cd C:\mydata\obsidian_vaults\vault-q\core ;
 ```
-## subj : doc : collection
+
 [[Readme  file item list; 2025-03-21__10-25-55]]
-# doc : logs
-## description
+# @logs
+## @description
 логи в которых заносятся рабочие моменты, - инсайты, пометки, todo (?) , записи для 
-## subject
+## @subject: dev log
 [[__collection; my obsidian core;  development; log; 2025-04-08__07-54-39]]
-# list : docs
+# @list: docs
 1. . [[__insight;  obsidian workflow ;2025-03-21__10-34-50#экономия места с помощью фрагментации документа | экономия места с помощью фрагментации документа]]
 2. .  [[_insight; obsidian; my  own architecture and  my  own protocol; meta; 2025-03-23__06-56-22#subject]]
 3. . [[2025-03-31__12-35-17]]
 4. . [[__insight; 2025-04-01__01-04-02]]
 5. . [[__insight; note meta 2024-09-04__12-01-11]]
 
-# collection : fundamentals
+# @collection : fundamentals
 ## subject : insight : about my own headers
 ### subject
-#insight/2025/4/24 : каждый заголовок должен содержать title. Например header : title. Это уже упомяналось ранее. Это нужно для того что бы при навигации можно было ориентироваться с помощью правого сайд-бара  | #date/2025/4/24
+#insight/2025/4/24 : каждый заголовок должен содержать title. Например: `header : title`. Это уже упомяналось ранее[^1]. Это нужно для того что бы при навигации можно было ориентироваться с помощью правого сайд-бара  | #date/2025/4/24
 ## subject : my own headers
 ## subject : how  to wright a headers
 ##  subject  : collection : типы модулей  документа
@@ -255,3 +262,7 @@ Perhaps this  document will not concrete Document
 ## .
 # nav
 [[Readme  file item list; 2025-03-21__10-25-55]]
+
+[^1]: Когда? Где?
+
+[^2]: [[diary; 2025-07-19__09-30-18]]
