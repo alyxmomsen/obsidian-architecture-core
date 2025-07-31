@@ -1,4 +1,4 @@
-<% tp.date.now("YYYY-MM-DD, dddd") %>
+дата создания: <% tp.date.now("YYYY.MM.DD, dddd") %>
 # @@@
 
 # @@@
